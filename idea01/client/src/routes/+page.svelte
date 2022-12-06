@@ -6,13 +6,14 @@
 	<title>CS Quiz</title>
 </svelte:head>
 
-<main> 
+<div>
 	<header>
 		<div>
 			<h1>CS Quiz</h1>
 		</div>
-	</header>
-</main>
+	</header> 
+</div>
+
 
 <style>
 
